@@ -1,0 +1,21 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    color:#212529;
+}
+
+.bg-pink {
+    background-color: #E83E8C;
+    vertical-align: middle;
+}
+.icons-section{
+    background-color: #17A2B8;
+}
+
+.display-4, .card-title {
+    font-weight: 700;
+}
+
+#navbarNav a {
+    color: #ffffff;
+}
